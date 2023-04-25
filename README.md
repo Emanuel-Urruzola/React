@@ -20,5 +20,5 @@ npm install
 |Twitter Follow Card | [Ver](projects/00-twitter-follow-card/) |
 |Tic Tac Toe | [Ver](projects/01-tic-tac-toe/) |
 |Mouse Follower | [Ver](projects/02-mouse-follower) |
-|Prueba técnica con Promesas, fetching y testing E2E | [Ver](projects/03-react-prueba-tecnica) |
+|Prueba técnica con Promesas, fetching y testing E2E | [Ver](projects/03-prueba-tecnica) |
 |Prueba técnica con formularios, buscador utilizando una API | [Ver](projects/04-react-buscador-peliculas) |
