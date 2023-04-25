@@ -1,9 +1,9 @@
 import './App.css'
-import { useCatImage } from './hooks/useCatImage,js'
+import { useCatImage } from './hooks/useCatImage'
 import { useCatFact } from './hooks/useCatFact'
 // const CAT_ENDPOINT_IMAGE_URL = `https://cataas.com/cat/says/${firstWord}?size=50&colore+red&json=true`
 
-export function App () {
+export function App() {
   const { fact, refreshFact } = useCatFact()
   const { imageURL } = useCatImage({ fact })
 
