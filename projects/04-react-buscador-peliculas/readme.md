@@ -11,7 +11,7 @@ Requerimientos:
 
 ✔ Haz que las películas se muestren en un grid responsive.
 
-✔ Hacer el fetching de datos. (Primero se uso [with-results](src/mocks/with-results.json con una) y [without-results](src/mocks/with-results.json con una) para almacenar los resultados y trabajar con ellos previamente)
+✔ Hacer el fetching de datos. (Primero se uso [with-results.json](src/mocks/with-results.json) y [without-results.json](src/mocks/with-results.json) para almacenar los resultados y trabajar con ellos previamente)
 
 Primera iteración
 
