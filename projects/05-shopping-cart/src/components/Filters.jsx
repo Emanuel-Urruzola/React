@@ -1,9 +1,8 @@
 import { useId } from 'react'
 import './Filters.css'
 import { useFilters } from '../hooks/useFilters'
-export function Filters({ onChange }) {
+export function Filters ({ onChange }) {
   const { filters, setFilters } = useFilters()
-
 
   const minPriceFilterId = useId()
   const categoryFilterId = useId()
@@ -23,11 +22,11 @@ export function Filters({ onChange }) {
   }
 
   return (
-    <section className="filters">
+    <section className='filters'>
       <div>
         <label htmlFor={minPriceFilterId}>Precio a partir de:</label>
         <input
-          type="range"
+          type='range'
           id={minPriceFilterId}
           min='0'
           max='1000'
@@ -39,9 +38,9 @@ export function Filters({ onChange }) {
       <div>
         <label htmlFor={categoryFilterId}>Categoría</label>
         <select id={categoryFilterId} onChange={handleChangeCategory}>
-          <option value="all">Todas</option>
-          <option value="laptops">Portatiles</option>
-          <option value="smartphones">Celulares</option>
+          <option value='all'>Todas</option>
+          <option value='laptops'>Portatiles</option>
+          <option value='smartphones'>Celulares</option>
         </select>
       </div>
     </section>

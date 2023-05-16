@@ -4,9 +4,13 @@ Tienda y carrito con React + estado global con useContext + manejo de estado con
 1. Ecommerce
 
 ✅ Muestra una lista de productos que vienen de un JSON.
+
 ✅ Añade un filtro por categroría.
+
 ✅ Añade un filtro por precio.
-✅ Haz uso de useContext para evitar pasar props innecesarias
+
+✅ Haz uso de useContext para evitar pasar props 
+
 
 Haz uso de useContext para evitar pasar props innecesarias
 
