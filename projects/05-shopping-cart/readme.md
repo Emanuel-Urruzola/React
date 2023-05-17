@@ -9,10 +9,7 @@ Tienda y carrito con React + estado global con useContext + manejo de estado con
 
 ✅ Añade un filtro por precio.
 
-✅ Haz uso de useContext para evitar pasar props 
-
-
-Haz uso de useContext para evitar pasar props innecesarias
+✅ Haz uso de useContext para evitar pasar props innecesarias
 
 2. Shopping Cart
 
@@ -25,3 +22,13 @@ Haz uso de useContext para evitar pasar props innecesarias
 ✅ Sincroniza los cambios del carrito con la lista de productos.
 
 ✅ Guarda en un localStorage el carrito que se recupere al recargar la página.
+
+Para arrancar el proyecto luego de clonarlo necesitaras instalar dependencias
+```node
+npm install
+```
+
+Arrancar el proyecto en modo desarrollo
+```node
+npm run dev
+```

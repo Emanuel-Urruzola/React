@@ -22,3 +22,4 @@ npm install
 |Mouse Follower | [Ver](projects/02-mouse-follower) | [Visitar](https://urruzola-mouse-follower.surge.sh/) |
 |Prueba técnica con Promesas, fetching y testing E2E | [Ver](projects/03-prueba-tecnica) | [Visitar](https://urruzola-cat-facts.surge.sh/) |
 |Prueba técnica con formularios, buscador utilizando una API | [Ver](projects/04-react-buscador-peliculas) | [Visitar](https://urruzola-buscador-peliculas.surge.sh/) |
+|Creación de un ecommerce con carrito de compras | [Ver](projects/05-shopping-cart) | [Visitar](https://urruzola-ecommerce.surge.sh/) |

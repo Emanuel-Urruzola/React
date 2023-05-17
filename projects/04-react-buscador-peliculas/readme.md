@@ -31,8 +31,3 @@ Arrancar el proyecto en modo desarrollo
 ```node
 npm run dev
 ```
-
-Para ejecutar el test
-```node
-npm playwright test
-```
