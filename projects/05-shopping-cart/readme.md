@@ -16,18 +16,12 @@ Haz uso de useContext para evitar pasar props innecesarias
 
 2. Shopping Cart
 
-- Haz que se puedan añadir los productos del carrito.
-- Haz que se puedan eliminar los productos del carrito.
-- Haz que se puedan modificar la cantidad de productos del carrito.
-- Sincroniza los cambios del carrito con la lista de productos.
-- Guarda en un localStorage el carrito que se recupere al recargar la página.
+✅ Haz que se puedan añadir los productos del carrito.
 
-Para arrancar el proyecto luego de clonarlo necesitaras instalar dependencias
-```node
-npm install
-```
+✅ Haz que se puedan eliminar los productos del carrito.
 
-Arrancar el proyecto en modo desarrollo
-```node
-npm run dev
-```
+✅ Haz que se puedan modificar la cantidad de productos del carrito.
+
+✅ Sincroniza los cambios del carrito con la lista de productos.
+
+✅ Guarda en un localStorage el carrito que se recupere al recargar la página.
